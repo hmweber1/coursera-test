@@ -1,5 +1,10 @@
+div {
+  position: relative
+}
 p {
   font-size: 130%;
   background-color: gray;
   color: white;
+  position: absolute;
+  right: 0px; 
 }
