@@ -1,0 +1,52 @@
+body {
+	font-size: 16px;
+	color: yellow;
+	background-color: blue;
+}
+
+/** HEADER **/
+
+header {
+	color: black;
+}
+#header-nav {
+	color: black;
+	background-color: green;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-header {
+	color: black;
+}
+
+.navbar-brand h1 {
+	color: black;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  background-color: red; 
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+
+
+/** MAIN CONTENT **/
+
+#main-content div {
+	height: 1000px;
+	width: 100%;
+	color: black;
+	background-color: white;
+	margin: 20px;
+}
